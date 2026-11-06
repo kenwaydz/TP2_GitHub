@@ -2,3 +2,17 @@ Nom : Mohamed
 Spécialité : IMSI
 Rôle : Développement
 Compétences : Python, Java, Git
+
+
+
+
+Nom : Abdelkarim
+Spécialité : IMSI
+Rôle : Chef de Projet SI
+Compétences :
+
+    Gestion & Méthodologie : Méthodes Agiles (Scrum, Kanban), Suivi de projet & Planification (Jira, Trello), Cahier des charges, Gestion des risques
+
+    Analyse & Conception : Recueil des besoins, Modélisation SI (UML, Merise), Architecture logicielle
+
+    Culture Technique : Python, Java, SQL / Bases de données, Git, Notions d'architectures Web & API
