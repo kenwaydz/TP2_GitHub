@@ -16,3 +16,8 @@ Compétences :
     Analyse & Conception : Recueil des besoins, Modélisation SI (UML, Merise), Architecture logicielle
 
     Culture Technique : Python, Java, SQL / Bases de données, Git, Notions d'architectures Web & API
+
+Nom : Aissa
+Spécialité : IMSI
+Rôle : Assistant
+Compétences : Python, Java, Git
