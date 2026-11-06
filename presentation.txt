@@ -1,0 +1,4 @@
+Nom : Mohamed
+Spécialité : IMSI
+Rôle : Développement
+Compétences : Python, Java, Git
